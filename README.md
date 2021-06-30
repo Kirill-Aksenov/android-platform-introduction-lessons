@@ -21,10 +21,9 @@
     * **fragment-observer** - Передача данных между фрагментами
 * [Урок 7. Навигация через фрагменты. Основное меню. Боковое навигационное меню](https://github.com/Kirill-Aksenov/android-platform-introduction-lessons/tree/master/lesson07)
     * **fragment-navigation** - Навигация через фрагменты. Основное меню. Боковое навигационное меню
-* [Урок 8. Списки. Списковые элементы]
-    * **сity-heraldry** - Создание списка надуванием
+* [Урок 8. Списки. Списковые элементы](https://github.com/Kirill-Aksenov/android-platform-introduction-lessons/tree/master/lesson08)
     * **social-network** - Демонстрация создания списка
-* [Урок 9. Расширенные возможности списка. Контекстное меню. DatePicker]
+* [Урок 9. Расширенные возможности списка. Контекстное меню. DatePicker](https://github.com/Kirill-Aksenov/android-platform-introduction-lessons/tree/master/lesson09)
     * **social-network** - Меню в приложении, добавление, изменение и удаление элементов в списке
 * [Урок 10. Firestore и аутентификация через Google]
     * **social-network** - Firestore, аутентификация
