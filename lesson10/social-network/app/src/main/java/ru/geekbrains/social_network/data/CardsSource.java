@@ -1,6 +1,7 @@
 package ru.geekbrains.social_network.data;
 
 public interface CardsSource {
+    CardsSource init(CardsSourceResponse cardsSourceResponse);
     CardData getCardData(int position);
     int getSize();
     void deleteCardData(int position);

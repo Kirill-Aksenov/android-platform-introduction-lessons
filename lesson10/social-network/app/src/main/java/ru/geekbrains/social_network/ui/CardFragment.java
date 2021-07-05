@@ -89,16 +89,20 @@ public class CardFragment extends Fragment {
         String title = this.title.getText().toString();
         String description = this.description.getText().toString();
         Date date = getDateFromDatePicker();
+        CardData answer;
         int picture;
         boolean like;
         if (cardData != null){
             picture = cardData.getPicture();
             like = cardData.isLike();
+            answer = new CardData(title, description, picture, like, date);
+            answer.setId(cardData.getId());
         } else {
             picture = R.drawable.nature1;
             like = false;
+            answer = new CardData(title, description, picture, like, date);
         }
-        return new CardData(title, description, picture, like, date);
+        return answer;
     }
 
     // Получение даты из DatePicker
