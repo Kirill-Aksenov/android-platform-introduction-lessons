@@ -25,9 +25,9 @@
     * **social-network** - Демонстрация создания списка
 * [Урок 9. Расширенные возможности списка. Контекстное меню. DatePicker](https://github.com/Kirill-Aksenov/android-platform-introduction-lessons/tree/master/lesson09)
     * **social-network** - Меню в приложении, добавление, изменение и удаление элементов в списке
-* [Урок 10. Firestore и аутентификация через Google]
+* [Урок 10. Firestore и аутентификация через Google](https://github.com/Kirill-Aksenov/android-platform-introduction-lessons/tree/master/lesson10)
     * **social-network** - Firestore, аутентификация
-* [Урок 11. Диалоговые окна]
+* [Урок 11. Диалоговые окна](https://github.com/Kirill-Aksenov/android-platform-introduction-lessons/tree/master/lesson11)
     * **alert-dialog** - Диалоговые окна
     * **dialog-fragment** - Диалоговые окна на основе фрагментов
     * **bottom-dialog** - Диалоговое окно снизу
